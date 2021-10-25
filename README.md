@@ -22,8 +22,8 @@ Obviously, the more rides that are given, the more the need for drivers.  The ur
 
 ## Recommendations
 When considering where to focus ride-sharing programs, the scale of the investment could be the deciding factor on what city type to choose.  As seen in the figures in the results section, the highest average fare is in rural areas.  However, more rides will comes from urban areas (but with the added cost of more drivers).  For these reasons:
-1) If the investment is planned to be small, and not many drivers will be hired, it would most likely be better to invest in rural rise-sharing, where the average fares are much higher<br />
-2) If the investment is planned to be relatively large, and many drivers will be hired, it would most likely be better to invest in urban rise-sharing, where the volume of rides is at a maximum and the increase in drivers won't run the danger of over-saturation (i.e. having a lot of drivers in the rural areas may lead to a lot of down-time since there are less available customers)<br />
+1) If the investment is planned to be small, and not many drivers will be hired, it would most likely be better to invest in rural rise-sharing, where the average fares are much higher and fewer drivers are needed.<br />
+2) If the investment is planned to be relatively large, and many drivers will be hired, it would most likely be better to invest in urban rise-sharing, where the volume of rides is at a maximum and the increase in drivers won't run the danger of over-saturation (i.e. having a lot of drivers in the rural areas may lead to a lot of down-time since there are less available customers).<br />
 3) Given a medium-sized investment, the suburban areas strike somewhat of a balance between the average fares and the needed number of drivers.
 
 
